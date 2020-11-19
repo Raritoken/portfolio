@@ -59,6 +59,9 @@ a:hover{
     body{
         margin-bottom: 5vw;
     }
+    .footer{
+        font-size: 11pt;
+    }
     .motivatie, .ontwerper, .afwijking{
         margin-right: 0vw;
     }
