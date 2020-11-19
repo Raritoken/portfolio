@@ -9,4 +9,5 @@
 .quote{
     font-family: fantasy;
     color: goldenrod;
+    -webkit-text-stroke: black 1px;
 }
