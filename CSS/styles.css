@@ -13,6 +13,10 @@ p{
     font-size: 11pt;
     color: white;
 }
+.footer{
+    font-style: normal;
+    text-align: center;
+}
 .title, .quote, .bio{
     text-align: left;
 }
