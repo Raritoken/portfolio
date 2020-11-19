@@ -1,0 +1,12 @@
+.title, .quote, .bio{
+    text-align: center;
+}
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightskyblue;
+    -webkit-text-stroke: black 1px;
+}
+.quote{
+    font-family: fantasy;
+    color: goldenrod;
+}
